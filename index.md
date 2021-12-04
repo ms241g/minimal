@@ -21,5 +21,5 @@ AQI: The air quality index is an index for reporting air quality on a daily basi
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ms241g/AQI-Prediction.git)
 
-<center><img src="images/aqi_prediction.jpg"/></center>
+<center><img src="asset/aqi_prediction.jpg"/></center>
 
