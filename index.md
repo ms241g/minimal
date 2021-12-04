@@ -13,7 +13,7 @@ of experiments, using datasets for three different regions to obtain the best pr
 from the stacking ensemble, AdaBoost, and random forest, found the stacking ensemble delivers
 consistently superior performance 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ms241g/AQI-Prediction.git)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ms241g/AQI-Prediction)
 
 <center><img src="assets/aqi_prediction.png"/></center>
 
