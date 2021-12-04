@@ -1,6 +1,19 @@
 title: Manoj Kumar Sharma
 logo: /assets/img/Photo.jpg
-description: Resume|Linkdin|Github
-show_downloads: true
-google_analytics:
+description: 
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a>
+  <a href="linkedin.com/in/manoj-kumar-sharma-175192a/"LinkedIn</a>
+  <a href="https://github.com/ms241g">GitHub</a>
+  
+  <br>
+  Experience in executing full life-cycle development projects, ramping up projects within time, 
+  budget & quality parameters, as per project management & best practice guidelines, 
+  targeting assignments in Data Science, Machine Learning and Deep Learning with an 
+  organization of high repute
+  <br>
+  </p>
+  
+  
+  
 theme: jekyll-theme-minimal
